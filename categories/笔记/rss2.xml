@@ -8,8 +8,22 @@
         <atom:link href="/categories/%E7%AC%94%E8%AE%B0/rss2.xml" rel="self" type="application/rss+xml"/>
         
         <description></description>
-        <pubDate>Mon, 31 Aug 2020 08:29:19 GMT</pubDate>
+        <pubDate>Sat, 12 Sep 2020 08:48:11 GMT</pubDate>
         <generator>http://hexo.io/</generator>
+        
+        <item>
+            <title>电工学14：半导体的导电特性</title>
+            <link>https://cjh0613.com/20200830Electrotechnics14.html</link>
+            <guid>https://cjh0613.com/20200830Electrotechnics14.html</guid>
+            <pubDate>Wed, 09 Sep 2020 10:32:00 GMT</pubDate>
+            <description>
+                
+                &lt;p&gt;（持续更新……）&lt;/p&gt;
+                
+            </description>
+            
+            <comments>https://cjh0613.com/20200830Electrotechnics14.html#disqus_thread</comments>
+        </item>
         
         <item>
             <title>电工学2：电路的分析方法</title>
