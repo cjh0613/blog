@@ -77,13 +77,14 @@
         </item>
         
         <item>
-            <title>TravisCI与Github建Python在线打包环境生成windowsEXE</title>
+            <title>TravisCI与Github用Python在线打包生成windows32位exe</title>
             <link>https://cjh0613.com/20200521pythonOnlineCompile.html</link>
             <guid>https://cjh0613.com/20200521pythonOnlineCompile.html</guid>
             <pubDate>Fri, 05 Jun 2020 01:45:00 GMT</pubDate>
             <description>
                 
                 &lt;p&gt;（文章未完成……敬请期待……）&lt;/p&gt;
+&lt;p&gt;这利用了持续集成服务&lt;span class=&quot;exturl&quot;&gt;&lt;a class=&quot;exturl__link&quot;   href=&quot;https://cjhredirect.now.sh/wikipedia/zh-cn.html?s=Travis_CI&quot;  target=&quot;_blank&quot; rel=&quot;external nofollow noopener noreferrer&quot;&gt;Travis CI&lt;/a&gt;&lt;span class=&quot;exturl__icon&quot;&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;&lt;/span&gt;（&lt;span class=&quot;exturl&quot;&gt;&lt;a class=&quot;exturl__link&quot;   href=&quot;https://travis-ci.org&quot;  target=&quot;_blank&quot; rel=&quot;external nofollow noopener noreferrer&quot;&gt;https://travis-ci.org&lt;/a&gt;&lt;span class=&quot;exturl__icon&quot;&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;&lt;/span&gt;）。Github Action 貌似只支持 64 位操作系统……&lt;/p&gt;
 &lt;p&gt;先说说这么做的好处：您可以随时随地使用任意含有浏览器的设备，通过 Github 网站在线编辑 python 代码，每次提交后 pyinstaller 会自动编译生成 exe 二进制文件文件，随时下载，而且不必担心已安装库过多导致生成 python 打包文件过大的问题。&lt;/p&gt;
                 
             </description>
