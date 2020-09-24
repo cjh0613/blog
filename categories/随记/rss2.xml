@@ -8,8 +8,29 @@
         <atom:link href="/categories/%E9%9A%8F%E8%AE%B0/rss2.xml" rel="self" type="application/rss+xml"/>
         
         <description></description>
-        <pubDate>Mon, 24 Aug 2020 01:59:24 GMT</pubDate>
+        <pubDate>Thu, 24 Sep 2020 14:24:11 GMT</pubDate>
         <generator>http://hexo.io/</generator>
+        
+        <item>
+            <title>投资入门-基础知识</title>
+            <link>https://cjh0613.com/20200924invest.html</link>
+            <guid>https://cjh0613.com/20200924invest.html</guid>
+            <pubDate>Thu, 24 Sep 2020 14:21:00 GMT</pubDate>
+            <description>
+                
+                &lt;p&gt;（未完成……敬请期待……）&lt;/p&gt;
+
+        &lt;h2   id=&quot;投资的重要性与必要性&quot; &gt;
+          &lt;span class=&quot;heading-link&quot;&gt;投资的重要性与必要性&lt;/span&gt;
+        &lt;/h2&gt;
+      
+&lt;blockquote&gt;&lt;p&gt;一生能够积累多少财富，不取决于你能够赚多少钱，而取决于你如何投资理财，钱找钱胜过人找钱，要懂得让钱为你工作，而不是你为钱工作。&lt;/p&gt;
+&lt;footer&gt;&lt;strong&gt;巴菲特&lt;/strong&gt;&lt;cite&gt;世界上最成功的投资者，净资产720亿美元（2020年5月）&lt;/cite&gt;&lt;/footer&gt;&lt;/blockquote&gt;
+                
+            </description>
+            
+            <comments>https://cjh0613.com/20200924invest.html#disqus_thread</comments>
+        </item>
         
         <item>
             <title>记账那些事儿</title>
@@ -396,20 +417,6 @@ Mozilla之书（英语：The Book of Mozilla）是Netscape和Mozilla系列网页
             </description>
             
             <comments>https://cjh0613.com/2019-01-01.html#disqus_thread</comments>
-        </item>
-        
-        <item>
-            <title>从武汉骑行回宜昌</title>
-            <link>https://cjh0613.com/%E4%BB%8E%E6%AD%A6%E6%B1%89%E9%AA%91%E8%A1%8C%E5%9B%9E%E5%AE%9C%E6%98%8C.html</link>
-            <guid>https://cjh0613.com/%E4%BB%8E%E6%AD%A6%E6%B1%89%E9%AA%91%E8%A1%8C%E5%9B%9E%E5%AE%9C%E6%98%8C.html</guid>
-            <pubDate>Mon, 31 Dec 2018 16:00:00 GMT</pubDate>
-            <description>
-                
-                &lt;p&gt;……&lt;/p&gt;
-                
-            </description>
-            
-            <comments>https://cjh0613.com/%E4%BB%8E%E6%AD%A6%E6%B1%89%E9%AA%91%E8%A1%8C%E5%9B%9E%E5%AE%9C%E6%98%8C.html#disqus_thread</comments>
         </item>
         
     </channel>
