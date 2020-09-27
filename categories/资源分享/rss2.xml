@@ -8,8 +8,22 @@
         <atom:link href="/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/rss2.xml" rel="self" type="application/rss+xml"/>
         
         <description></description>
-        <pubDate>Mon, 21 Sep 2020 14:27:15 GMT</pubDate>
+        <pubDate>Sun, 27 Sep 2020 11:13:20 GMT</pubDate>
         <generator>http://hexo.io/</generator>
+        
+        <item>
+            <title>谷歌学术镜像网站列表</title>
+            <link>https://cjh0613.com/Google-Scholar-Mirror.html</link>
+            <guid>https://cjh0613.com/Google-Scholar-Mirror.html</guid>
+            <pubDate>Sun, 27 Sep 2020 11:04:00 GMT</pubDate>
+            <description>
+                
+                &lt;p&gt;学术镜像&lt;/p&gt;
+                
+            </description>
+            
+            <comments>https://cjh0613.com/Google-Scholar-Mirror.html#disqus_thread</comments>
+        </item>
         
         <item>
             <title>珍藏的Flash小游戏</title>
@@ -186,7 +200,7 @@
         </item>
         
         <item>
-            <title>谷歌Google镜像网站集合列表</title>
+            <title>谷歌Google镜像网站列表</title>
             <link>https://cjh0613.com/GoogleMirror.html</link>
             <guid>https://cjh0613.com/GoogleMirror.html</guid>
             <pubDate>Thu, 02 Apr 2020 08:55:00 GMT</pubDate>
