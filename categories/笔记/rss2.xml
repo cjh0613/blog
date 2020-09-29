@@ -8,8 +8,22 @@
         <atom:link href="/categories/%E7%AC%94%E8%AE%B0/rss2.xml" rel="self" type="application/rss+xml"/>
         
         <description></description>
-        <pubDate>Sun, 13 Sep 2020 10:52:40 GMT</pubDate>
+        <pubDate>Tue, 29 Sep 2020 08:57:29 GMT</pubDate>
         <generator>http://hexo.io/</generator>
+        
+        <item>
+            <title>流体力学2-流体的主要物理性质</title>
+            <link>https://cjh0613.com/20200929Fluid-mechanics2.html</link>
+            <guid>https://cjh0613.com/20200929Fluid-mechanics2.html</guid>
+            <pubDate>Tue, 29 Sep 2020 08:16:00 GMT</pubDate>
+            <description>
+                
+                &lt;p&gt;（持续更新……）&lt;/p&gt;
+                
+            </description>
+            
+            <comments>https://cjh0613.com/20200929Fluid-mechanics2.html#disqus_thread</comments>
+        </item>
         
         <item>
             <title>电工学14：半导体的导电特性</title>
