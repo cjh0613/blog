@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://cjh0613.com/suiji.html</loc>
+    <lastmod>2020-10-12</lastmod>
+  </url>  <url>
+    <loc>https://cjh0613.com/template.html</loc>
+    <lastmod>2020-10-12</lastmod>
+  </url>  <url>
     <loc>https://cjh0613.com/20200929Fluid-mechanics2.html</loc>
     <lastmod>2020-09-29</lastmod>
   </url>  <url>
@@ -72,9 +78,6 @@
   </url>  <url>
     <loc>https://cjh0613.com/20200601googleIndexAPIissue.html</loc>
     <lastmod>2020-09-03</lastmod>
-  </url>  <url>
-    <loc>https://cjh0613.com/suiji.html</loc>
-    <lastmod>2020-08-31</lastmod>
   </url>  <url>
     <loc>https://cjh0613.com/20200830Electrotechnics2.html</loc>
     <lastmod>2020-08-31</lastmod>
@@ -161,9 +164,6 @@
     <lastmod>2020-08-01</lastmod>
   </url>  <url>
     <loc>https://cjh0613.com/The%20Book%20of%20Mozilla.html</loc>
-    <lastmod>2020-08-01</lastmod>
-  </url>  <url>
-    <loc>https://cjh0613.com/template.html</loc>
     <lastmod>2020-08-01</lastmod>
   </url>  <url>
     <loc>https://cjh0613.com/szrg.html</loc>
