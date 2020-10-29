@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://cjh0613.com/20201029treecard.html</loc>
+    <lastmod>2020-10-29</lastmod>
+  </url>  <url>
+    <loc>https://cjh0613.com/WikipediaMirror.html</loc>
+    <lastmod>2020-10-29</lastmod>
+  </url>  <url>
+    <loc>https://cjh0613.com/hot.html</loc>
+    <lastmod>2020-10-29</lastmod>
+  </url>  <url>
     <loc>https://cjh0613.com/20200603HexoSubmitUrlsToSearchEngine.html</loc>
     <lastmod>2020-10-13</lastmod>
   </url>  <url>
@@ -26,9 +35,6 @@
     <lastmod>2020-09-27</lastmod>
   </url>  <url>
     <loc>https://cjh0613.com/GoogleMirror.html</loc>
-    <lastmod>2020-09-27</lastmod>
-  </url>  <url>
-    <loc>https://cjh0613.com/WikipediaMirror.html</loc>
     <lastmod>2020-09-27</lastmod>
   </url>  <url>
     <loc>https://cjh0613.com/20200923.html</loc>
@@ -102,9 +108,6 @@
   </url>  <url>
     <loc>https://cjh0613.com/20200822subdomain.html</loc>
     <lastmod>2020-08-22</lastmod>
-  </url>  <url>
-    <loc>https://cjh0613.com/hot.html</loc>
-    <lastmod>2020-08-19</lastmod>
   </url>  <url>
     <loc>https://cjh0613.com/20200405hexo-bilibili.html</loc>
     <lastmod>2020-08-06</lastmod>
