@@ -154,7 +154,7 @@ window.CONFIG = CONFIG;</script><meta name="generator" content="Hexo 4.2.0"></he
         <img class="friends-plugin__item-avatar lazyload lazyload-gif" src="/images/loading.svg" data-src="https://www.e-xiaobai.com/data/attachment/portal/202102/25/161839kpl2gxcusqiu2xzw.png" data-zoom="none">
       <div class="friends-plugin__item-info"><p class="friends-plugin__item-info__name" title="e小白">e小白</p><p class="friends-plugin__item-info__intro" title="共同学习，一起进步">共同学习，一起进步</p></div></a><a class="friends-plugin__item" href="https://cmwen.cn" target="_blank" rel="noopener">
         <img class="friends-plugin__item-avatar lazyload lazyload-gif" src="/images/loading.svg" data-src="http://q.qlogo.cn/headimg_dl?dst_uin=1914788728&spec=640&img_type=jpg" style data-zoom="none">
-      <div class="friends-plugin__item-info"><p class="friends-plugin__item-info__name" title="不归路">不归路</p><p class="friends-plugin__item-info__intro" title="踏上一条不归路">踏上一条不归路</p></div></a></div></div></div><div class="comments" id="comments"><div id="valine-container"></div><div><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-3992225808017393" data-ad-slot="7938361938"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div></div><div class="sidebar-wrap" id="sidebar-wrap"><aside class="sidebar" id="sidebar"><section class="sidebar-toc hide"><ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#朋友们"><span class="toc-number">1.</span> <span class="toc-text">
+      <div class="friends-plugin__item-info"><p class="friends-plugin__item-info__name" title="不归路">不归路</p><p class="friends-plugin__item-info__intro" title="踏上一条不归路">踏上一条不归路</p></div></a></div></div></div><div class="comments" id="comments"><div id="waline-container"></div></div></div><div class="sidebar-wrap" id="sidebar-wrap"><aside class="sidebar" id="sidebar"><section class="sidebar-toc hide"><ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#朋友们"><span class="toc-number">1.</span> <span class="toc-text">
           朋友们
         </span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#鸣谢"><span class="toc-number">1.1.</span> <span class="toc-text">
           鸣谢
@@ -429,34 +429,31 @@ window.addEventListener('DOMContentLoaded', function () {
   };
 
   Stun.utils.pjaxReloadLocalSearch();
-}, false);</script><link href="https://cdn.staticfile.org/KaTeX/0.10.2/katex.min.css" rel="stylesheet" type="text/css"><link href="https://cdn.staticfile.org/KaTeX/0.10.2/contrib/copy-tex.css" rel="stylesheet" type="text/css"><script src="https://cdn.staticfile.org/KaTeX/0.10.2/contrib/copy-tex.min.js"></script><script src="https://cdn.jsdelivr.net/gh/sukkaw/busuanzi@latest/bsz.pure.mini.js" async></script><script src="https://cdn.jsdelivr.net/npm/leancloud-storage@latest/dist/av-min.js"></script><script src="//cdn.staticfile.org/valine/1.4.14/Valine.min.js"></script><script>function loadValine () {
+}, false);</script><link href="https://cdn.staticfile.org/KaTeX/0.10.2/katex.min.css" rel="stylesheet" type="text/css"><link href="https://cdn.staticfile.org/KaTeX/0.10.2/contrib/copy-tex.css" rel="stylesheet" type="text/css"><script src="https://cdn.staticfile.org/KaTeX/0.10.2/contrib/copy-tex.min.js"></script><script src="https://cdn.jsdelivr.net/gh/sukkaw/busuanzi@latest/bsz.pure.mini.js" async></script><script src="//cdn.jsdelivr.net/npm/@waline/client/dist/Waline.min.js"></script><script>function loadWaline () {
   var GUEST_INFO = ['nick', 'mail', 'link'];
   var guest_info = 'nick,mail,link';
 
   guest_info = guest_info.split(',').filter(function(item) {
     return GUEST_INFO.indexOf(item) > -1;
   });
-  new Valine({
-    el: '#valine-container',
-    appId: 'GfE51gqBqbGNIbHPqoSHcPXD-MdYXbMMI',
-    appKey: 'JXCYM9TcWAOLRnxo2BWpEL8y',
-    notify: true,
-    verify: true,
-    placeholder: '点这里输入评论。如果您需要咨询，还可QQ联系。（请填写上方昵称与邮箱，邮箱不会公开显示。如果您有个人网站，也可以填写）【近期邮件提醒失效，回复较慢】',
-    avatar: 'mp',
-    meta: guest_info,
+
+  new Waline({
+    el: '#waline-container',
+    serverURL: 'https://comment.cjh0613.com',
+    placeholder: '点这里输入评论。如果您需要咨询，还可QQ，TG联系。（请填写上方昵称与邮箱，邮箱不会公开显示。如果您有个人网站，也可以填写）【近期邮件提醒失效，回复较慢】',
     pageSize: '10' || 10,
+    lang: '' || 'zh-cn',
     visitor: false,
-    recordIP: true,
-    lang: 'zh-cn' || 'zh-cn',
-    path: window.location.pathname
+    avatar: 'mp',
+    path: window.location.pathname,
+    meta: guest_info
   });
 }
-  
+
 if (false) {
-  loadValine();
+  loadWaline();
 } else {
-  window.addEventListener('DOMContentLoaded', loadValine, false);
+  window.addEventListener('DOMContentLoaded', loadWaline, false);
 }</script><script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" async></script><script>(adsbygoogle = window.adsbygoogle || []).push({
   google_ad_client: 'ca-pub-3992225808017393',
   enable_page_level_ads: true
