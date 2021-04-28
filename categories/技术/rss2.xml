@@ -224,21 +224,6 @@
         </item>
         
         <item>
-            <title>python去文件名方括号广告</title>
-            <link>https://cjh0613.com/python%E5%8E%BB%E6%96%87%E4%BB%B6%E5%90%8D%E6%96%B9%E6%8B%AC%E5%8F%B7%E5%B9%BF%E5%91%8A.html</link>
-            <guid>https://cjh0613.com/python%E5%8E%BB%E6%96%87%E4%BB%B6%E5%90%8D%E6%96%B9%E6%8B%AC%E5%8F%B7%E5%B9%BF%E5%91%8A.html</guid>
-            <pubDate>Mon, 17 Feb 2020 16:00:00 GMT</pubDate>
-            <description>
-                
-                &lt;p&gt;有时候我们从网上下载文件，下载内容提供者会用方括号加注一些网址之类的广告。&lt;br&gt;
-而我有一次发现我下载的许多文件都是使用这种加注广告的方式，所以就用python设计了一个自动化去方括号广告的程序。&lt;/p&gt;
-                
-            </description>
-            
-            <comments>https://cjh0613.com/python%E5%8E%BB%E6%96%87%E4%BB%B6%E5%90%8D%E6%96%B9%E6%8B%AC%E5%8F%B7%E5%B9%BF%E5%91%8A.html#disqus_thread</comments>
-        </item>
-        
-        <item>
             <title>python去文件名开头的点</title>
             <link>https://cjh0613.com/python%E5%8E%BB%E6%96%87%E4%BB%B6%E5%90%8D%E5%BC%80%E5%A4%B4%E7%9A%84%E7%82%B9.html</link>
             <guid>https://cjh0613.com/python%E5%8E%BB%E6%96%87%E4%BB%B6%E5%90%8D%E5%BC%80%E5%A4%B4%E7%9A%84%E7%82%B9.html</guid>
@@ -252,6 +237,21 @@
             </description>
             
             <comments>https://cjh0613.com/python%E5%8E%BB%E6%96%87%E4%BB%B6%E5%90%8D%E5%BC%80%E5%A4%B4%E7%9A%84%E7%82%B9.html#disqus_thread</comments>
+        </item>
+        
+        <item>
+            <title>python去文件名方括号广告</title>
+            <link>https://cjh0613.com/python%E5%8E%BB%E6%96%87%E4%BB%B6%E5%90%8D%E6%96%B9%E6%8B%AC%E5%8F%B7%E5%B9%BF%E5%91%8A.html</link>
+            <guid>https://cjh0613.com/python%E5%8E%BB%E6%96%87%E4%BB%B6%E5%90%8D%E6%96%B9%E6%8B%AC%E5%8F%B7%E5%B9%BF%E5%91%8A.html</guid>
+            <pubDate>Mon, 17 Feb 2020 16:00:00 GMT</pubDate>
+            <description>
+                
+                &lt;p&gt;有时候我们从网上下载文件，下载内容提供者会用方括号加注一些网址之类的广告。&lt;br&gt;
+而我有一次发现我下载的许多文件都是使用这种加注广告的方式，所以就用python设计了一个自动化去方括号广告的程序。&lt;/p&gt;
+                
+            </description>
+            
+            <comments>https://cjh0613.com/python%E5%8E%BB%E6%96%87%E4%BB%B6%E5%90%8D%E6%96%B9%E6%8B%AC%E5%8F%B7%E5%B9%BF%E5%91%8A.html#disqus_thread</comments>
         </item>
         
         <item>
