@@ -136,7 +136,6 @@ else if(lang == 'haw'){window.location.href="/anti-selfish-browser/html/haw/plea
  	'WechatWork', // 企业微信客户端
      'QQBrowser', //QQ浏览器
  	'QQ', // QQ客户端
-    'Safari' , // 苹果系统默认浏览器
  	'360', //360浏览器(手机版)
      '360SE', //360安全浏览器
      '360EE', //360极速浏览器
