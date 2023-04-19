@@ -31,9 +31,9 @@ layer.confirm('因不可抗力，本博客停止更新，另开新站。本博�
   btn: ['查看详情','移步新站'] ,//按钮
   shade: 0
 }, function(){
-  window.location.href="https://xlog.cjh0613.com/HelloxLog";
+  safeOpenUrl("https://xlog.cjh0613.com/HelloxLog");
 }, function(){
-  window.location.href="https://xlog.cjh0613.com/";
+  safeOpenUrl("https://xlog.cjh0613.com/");
 })
 
     $(".reward-qrcode").attr("style","opacity: 1; display: block; transform: translateY(0px);");});
