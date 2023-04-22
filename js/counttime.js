@@ -26,7 +26,7 @@ var $runtimeCount = $('#webinfo-runtime-count')
     //$(".post").prepend('<div class="post-excerpt"><div class="note-plugin success no-icon"><p>如果有兴趣，可以关注一下 <strong>TreeCard</strong> ——<br>世界上第一款木制借记卡，万事达卡，境外机构发行，免费。最易申请、最优惠的境外卡。<br>12.1 前可以免费申请。可以查看我写的这篇指南<a href="/20201029treecard.html">TreeCard木制万事达借记卡申请指南</a>了解更多。</p></div></div>');
     
  
-layer.confirm('因不可抗力，本博客停止更新，另开新站。本博客的文章不进行迁移，维持可访问状态。请勿申请友情链接。继续浏览，你点击弹窗右上角的 X', {
+layer.confirm('请勿申请友情链接。继续浏览，你点击弹窗右上角的 X', {
 		title:"提示",
   btn: ['查看详情','移步新站'] ,//按钮
   shade: 0
