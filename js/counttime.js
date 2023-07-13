@@ -31,7 +31,7 @@ var $runtimeCount = $('#webinfo-runtime-count')
   btn: ['查看详情','移步新站'] ,//按钮
   shade: 0
 }, function(){
-  window.location.href="https://xlog.cjh0613.com/HelloxLog";
+  window.location.href="https://xlog.cjh0613.com/helloxlog";
 }, function(){
   window.location.href="https://xlog.cjh0613.com/";
 })
