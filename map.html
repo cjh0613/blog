@@ -24,8 +24,8 @@
   <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
   <script>
     var markerArr = [
-      { title: "宜昌", point: [30.718963, 111.317597], address: "峡州", cjhtext: "一切的起点……" },
-      { title: "凤凰古城", point: [27.95635, 109.612383], address: "……", cjhtext: "……" },
+      { title: "宜昌", point: [30.718963, 111.317597], address: "?", cjhtext: "?" },
+      { title: "凤凰古城", point: [27.95635, 109.612383], address: "?", cjhtext: "?" },
       { title: "北京", point: [39.914245, 116.403613], address: "?", cjhtext: "?" },
       { title: "无锡", point: [31.487787, 120.240537], address: "?", cjhtext: "?" },
       { title: "成都", point: [30.657066, 104.078081], address: "?", cjhtext: "?" },
@@ -51,7 +51,11 @@
       { title: "深圳", point: [22.552461, 114.060528], address: "?", cjhtext: "?" },
       { title: "峨眉山", point: [29.575196, 103.359405], address: "?", cjhtext: "?" },
       { title: "神农架", point: [31.750743, 110.680797], address: "?", cjhtext: "?" },
-      { title: "十堰", point: [32.650743, 110.780797], address: "?", cjhtext: "?" }
+      { title: "十堰", point: [32.650743, 110.780797], address: "?", cjhtext: "?" },
+      { title: "长沙", point: [28.2220, 112.9702], address: "?", cjhtext: "?" },
+      { title: "信阳", point: [32.13085, 114.07655], address: "?", cjhtext: "?" },
+      { title: "郑州", point: [34.6261, 113.4598], address: "?", cjhtext: "?" },
+      { title: "开封", point: [34.7421, 114.34179], address: "?", cjhtext: "?" }
     ];
 
 
@@ -59,7 +63,8 @@
       var map = L.map("map").setView([30.718963, 111.317597], 5);
 
       L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+        //attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+		attribution: 'Designed by <a href="https://xlog.cjh0613.com/" target="_blank" rel="noopener">C</a> , <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>',
       }).addTo(map);
 
       for (var i = 0; i < markerArr.length; i++) {
@@ -69,6 +74,9 @@
         var cjhtext = markerArr[i].cjhtext;
 
         var marker = L.marker(point).addTo(map);
+		 // Add a tooltip to the marker
+		        marker.bindTooltip(title, { permanent: true, direction: 'top' }).openTooltip();
+		     
         marker.bindPopup(
           "<p style='font-size: 12px;line-height: 1.8em;'>" +
           title +
